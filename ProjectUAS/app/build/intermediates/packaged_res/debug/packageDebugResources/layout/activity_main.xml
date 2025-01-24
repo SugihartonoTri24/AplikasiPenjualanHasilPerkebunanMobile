@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F9F9F9">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <!-- CardView as container -->
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardContainer"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="4dp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <!-- Title -->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Menu Navigasi"
+                    android:textStyle="bold"
+                    android:textColor="#3F51B5"
+                    android:textSize="20sp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginBottom="8dp" />
+
+                <!-- Button: Menu Pelanggan -->
+                <Button
+                    android:id="@+id/btnPelanggan"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Menu Pelanggan"
+                    android:backgroundTint="#3F51B5"
+                    android:textColor="@android:color/white"
+                    android:padding="10dp"
+                    android:layout_marginBottom="12dp" />
+
+                <!-- Button: Menu Pemesanan -->
+                <Button
+                    android:id="@+id/btnPemesanan"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Menu Pemesanan"
+                    android:backgroundTint="#3F51B5"
+                    android:textColor="@android:color/white"
+                    android:padding="10dp"
+                    android:layout_marginBottom="12dp" />
+
+                <!-- Button: Menu Stok Barang -->
+                <Button
+                    android:id="@+id/btnStokBarang"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Menu Stok Barang"
+                    android:backgroundTint="#3F51B5"
+                    android:textColor="@android:color/white"
+                    android:padding="10dp"
+                    android:layout_marginBottom="12dp" />
+
+
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
