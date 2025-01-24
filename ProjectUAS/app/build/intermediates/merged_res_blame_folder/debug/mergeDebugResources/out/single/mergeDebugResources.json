@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\layout_activity_laporan.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\layout\\activity_laporan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\drawable_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\drawable\\baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\layout_activity_stok_barang.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\layout\\activity_stok_barang.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\drawable_baseline_add_home_24.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\drawable\\baseline_add_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\drawable\\baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\layout_activity_order.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\drawable_edittext_rounded.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\drawable\\edittext_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\layout_activity_pemesanan.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\layout\\activity_pemesanan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\layout_activity_pelanggan.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\layout\\activity_pelanggan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.7\\com.example.projectuas.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    }
+]

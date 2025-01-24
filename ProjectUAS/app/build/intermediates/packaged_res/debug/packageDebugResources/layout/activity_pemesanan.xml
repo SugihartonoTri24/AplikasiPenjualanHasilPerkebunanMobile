@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F9F9F9"
+    tools:context=".PemesananActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <!-- CardView sebagai container -->
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardContainer"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="4dp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <!-- Judul Form -->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Form Pemesanan"
+                    android:textStyle="bold"
+                    android:textColor="#3F51B5"
+                    android:textSize="20sp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginBottom="8dp" />
+
+                <!-- Nama Pemesanan -->
+                <EditText
+                    android:id="@+id/etNamaPemesanan"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Nama Pemesanan"
+                    android:backgroundTint="#BDBDBD"
+                    android:inputType="textPersonName"
+                    android:padding="10dp"
+                    android:layout_marginBottom="12dp" />
+
+                <!-- Alamat Pemesanan -->
+                <EditText
+                    android:id="@+id/etAlamatPemesanan"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Alamat Pemesanan"
+                    android:backgroundTint="#BDBDBD"
+                    android:inputType="textPostalAddress"
+                    android:padding="10dp"
+                    android:layout_marginBottom="12dp" />
+
+                <!-- Spinner Barang -->
+                <Spinner
+                    android:id="@+id/spinnerBarang"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="12dp" />
+
+                <!-- Tombol Pilih Barang -->
+                <Button
+                    android:id="@+id/btnPilihBarang"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Pilih Barang"
+                    android:backgroundTint="#3F51B5"
+                    android:textColor="@android:color/white"
+                    android:padding="10dp" />
+
+                <!-- ListView untuk Menampilkan Barang yang Dipesan -->
+                <ListView
+                    android:id="@+id/lvPesanan"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="16dp" />
+
+                <!-- Total Harga -->
+                <TextView
+                    android:id="@+id/tvTotalHarga"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Total Harga: Rp 0"
+                    android:textSize="18sp"
+                    android:textColor="#3F51B5"
+                    android:layout_marginBottom="16dp"
+                    android:layout_gravity="center_horizontal" />
+
+                <!-- Tombol Kirim -->
+                <Button
+                    android:id="@+id/btnSubmit"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Kirim Pemesanan"
+                    android:backgroundTint="#3F51B5"
+                    android:textColor="@android:color/white"
+                    android:padding="10dp" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
